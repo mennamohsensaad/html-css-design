@@ -1,2 +1,2 @@
 # html-css-design
-html and css reponsive design 
+html and css responsive design 
